@@ -1,0 +1,2 @@
+# nullmcjoinned
+join to saluran
